@@ -14,7 +14,5 @@ namespace aspnet_core_mongo_api.Models
         public int Number { get; set; }
 
         public string Team { get; set; } = null!;
-
-
     }
 }

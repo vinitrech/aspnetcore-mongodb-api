@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>aspnet_core_mongo_api</RootNamespace>
+    <UserSecretsId>6576ad0b-f464-43e2-8a84-c8565401927d</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
